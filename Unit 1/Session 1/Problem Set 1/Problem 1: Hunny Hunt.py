@@ -6,12 +6,13 @@
 # 	print(-1)
 
 def linear_search(items, target):
+    """Print the index of target in items, or -1 if not found."""
     for i, item in enumerate(items):
         if item == target:
             print(i)
             return
     print(-1)
-			
+
 
 items = ['haycorn', 'haycorn', 'haycorn', 'hunny', 'haycorn']
 target = 'hunny'
