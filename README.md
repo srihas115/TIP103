@@ -59,7 +59,8 @@ Every `.py` solution file has a matching `.md` file with the **same name** in th
 If we worked through a problem together in session and you have a fixed or improved version of the code — please push it! I'd love to see alternative or better solutions.
 
 Feel free to reach out:
-- 💬 **Slack** — ping or direct message me in the course Slack!
+- 💬 **Slack** — Ping or direct message me in the course Slack! My profile name is Srihas Gupta
 - 🔗 **LinkedIn** — [linkedin.com/in/srihas115](https://www.linkedin.com/in/srihas115/)
+- 📧 **Email** - srihasgupta@gmail.com
 
 ---
