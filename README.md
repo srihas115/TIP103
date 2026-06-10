@@ -54,3 +54,14 @@ Every `.py` solution file has a matching `.md` file with the **same name** in th
 
 ---
 
+`##Connect & Collaborate`
+
+`If we worked through a problem together in session and you have a fixed or improved version of the code — please push it! I'd love to see alternative or better solutions.`
+
+`Feel free to reach out:`
+
+`- 💬 **Slack** — ping or direct message me in the course Slack!`
+
+`- 🔗 **LinkedIn** — [linkedin.com/in/srihas115](https://www.linkedin.com/in/srihas115/)`
+
+`---`
