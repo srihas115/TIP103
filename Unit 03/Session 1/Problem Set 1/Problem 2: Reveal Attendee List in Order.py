@@ -41,7 +41,7 @@ def reveal_attendee_list_in_order(attendees):
     # while dq:
 
 
-    # pass
+    pass
 
 
 print(reveal_attendee_list_in_order([17,13,11,2,3,5,7]))
