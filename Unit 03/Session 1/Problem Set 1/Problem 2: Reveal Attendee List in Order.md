@@ -8,7 +8,7 @@ At the event, attendees will walk on stage one by one following this special rev
 2.  If there are still people left in line, the **next person** in front moves to the **back** of the line.
 3.  Steps 1 and 2 repeat until everyone has walked on stage.
 
-Your task is to**rearrange the `attendees` list*****before***the process starts so that the attendees walk on stage by registration number in**increasing order**.
+Your task is to **rearrange the `attendees` list** ***before*** the process starts so that the attendees walk on stage by registration number in **increasing order**.
 
 Write a function `reveal_attendee_list_in_order(attendees)` that returns an array with the correct starting order, such that when the attendees follow the above reveal process they walk on stage from smallest registration number to largest registration number.
 
@@ -55,7 +55,7 @@ Now apply the reveal process step-by-step:
 | 11 | Reveal 13 | \[17\] | \[2, 3, 5, 7, 11, 13\] |
 | 12 | Reveal 17 | \[\] | \[2, 3, 5, 7, 11, 13, 17\] ✅ |
 
-The reordered`attendees`list`[2, 3, 5, 7, 11, 13, 17]`that results in registration numbers being revealed in increasing order is what your function should return.
+The reordered `attendees` list `[2, 3, 5, 7, 11, 13, 17]` that results in registration numbers being revealed in increasing order is what your function should return.
 
 ### AI Hint: Queues
 *Key Skill: Use AI to explain code concepts*
