@@ -1,6 +1,6 @@
 # Problem 3: Squash Spaces
 
-Write a function`squash_spaces()`that takes in a string`s`as a parameter and returns a new string with each substring with consecutive spaces reduced to a single space. Assume`s`can contain leading or trailing spaces, but in the result should be trimmed. Do not use any of the built-in trim methods.
+Write a function `squash_spaces()` that takes in a string `s` as a parameter and returns a new string with each substring with consecutive spaces reduced to a single space. Assume `s` can contain leading or trailing spaces, but in the result should be trimmed. Do not use any of the built-in trim methods.
 
 ```
 def squash_spaces(s):

@@ -1,10 +1,10 @@
 # Problem 6: Insert Interval
 
-Implement a function`insert_interval()`that accepts an array of non-overlapping intervals`intervals`where`intervals[i] = [starti, endi]`represent the start and the end of the`ith`interval and`intervals`is sorted in ascending order by`starti`. The function also accepts an interval`new_interval = [start, end]`that represents the start and end of another interval.
+Implement a function `insert_interval()` that accepts an array of non-overlapping intervals `intervals` where `intervals[i] = [starti, endi]` represent the start and the end of the `ith` interval and `intervals` is sorted in ascending order by `starti`. The function also accepts an interval `new_interval = [start, end]` that represents the start and end of another interval.
 
-Insert`new_interval`into`intervals`such that`intervals`is still sorted in ascending order by`starti`and`intervals`still does not have any overlapping intervals (merge overlapping intervals if necessary).
+Insert `new_interval` into `intervals` such that `intervals` is still sorted in ascending order by `starti` and `intervals` still does not have any overlapping intervals (merge overlapping intervals if necessary).
 
-Return`intervals`after the insertion.
+Return `intervals` after the insertion.
 
 You don't need to modify intervals in-place. You can make a new array and return it.
 

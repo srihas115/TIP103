@@ -1,6 +1,6 @@
 # Problem 1: Matrix Addition
 
-Write a function`add_matrices()`that accepts two`n x m`matrices`matrix1`and`matrix2`. The function should return an`n x m`matrix`sum_matrix`that is the sum of the given matrices such that each value in`sum_matrix`is the sum of values of corresponding elements in`matrix1`and`matrix2`.
+Write a function `add_matrices()` that accepts two `n x m` matrices `matrix1` and `matrix2`. The function should return an `n x m` matrix `sum_matrix` that is the sum of the given matrices such that each value in `sum_matrix` is the sum of values of corresponding elements in `matrix1` and `matrix2`.
 
 ```
 def add_matrices(matrix1, matrix2):
