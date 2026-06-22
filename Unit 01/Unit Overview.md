@@ -1,4 +1,4 @@
-## Unit 1: Foundations
+## Unit 01: Foundations
 
 Welcome to the first unit of this course. In this unit, you will meet your peers, review course policies, and most importantly get introduced to the UPI method for planning and solving technical interview questions! You'll also receive a crash course in Python and start working with lists and strings: two fundamental data structures for tackling common interview problems.
 
