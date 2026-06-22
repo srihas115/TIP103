@@ -1,6 +1,6 @@
 # Problem 3: Find All Duplicate Treasure Chests in an Array
 
-Captain Blackbeard has an integer array`chests`of length`n`where all the integers in`chests`are in the range`[1, n]`and each integer appears once or twice. Return an array of all the integers that appear twice, representing the treasure chests that have duplicates.
+Captain Blackbeard has an integer array `chests` of length `n` where all the integers in `chests` are in the range `[1, n]` and each integer appears once or twice. Return an array of all the integers that appear twice, representing the treasure chests that have duplicates.
 
 ```
 def find_duplicate_chests(chests):

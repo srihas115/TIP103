@@ -2,7 +2,7 @@
 
 Captain Feathersword and their crew has discovered a list of gold amounts at various hidden locations on an island. Each number on the map corresponds to the amount of gold at a specific location. Captain Feathersword already has plenty of loot, and their ship is nearly full. They want to find two distinct locations on the map such that the sum of the gold amounts at these two locations is exactly equal to the amount of space left on their ship.
 
-Given an array of integers`gold_amounts`representing the amount of gold at each location and an integer`target`, return the*indices*of the two locations whose gold amounts add up to the target.
+Given an array of integers `gold_amounts` representing the amount of gold at each location and an integer `target`, return the *indices* of the two locations whose gold amounts add up to the target.
 
 Assume that each input has exactly one solution, and you may not use the same location twice. You can return the answer in any order.
 

@@ -1,14 +1,14 @@
 # Problem 8: Counting Pirates' Action Minutes
 
-Captain Dread is keeping track of the crew's activities using a log. The logs are represented by a 2D integer array`logs`where each`logs[i] = [pirateID, time]`indicates that the pirate with`pirateID`performed an action at the minute`time`.
+Captain Dread is keeping track of the crew's activities using a log. The logs are represented by a 2D integer array `logs` where each `logs[i] = [pirateID, time]` indicates that the pirate with `pirateID` performed an action at the minute `time`.
 
 Multiple pirates can perform actions simultaneously, and a single pirate can perform multiple actions in the same minute.
 
 The pirate action minutes (PAM) for a given pirate is defined as the number of unique minutes in which the pirate performed an action. A minute can only be counted once, even if multiple actions occur during it.
 
-You are to calculate a 1-indexed array`answer`of size`k`such that, for each`j (1 <= j <= k)`,`answer[j]`is the number of pirates whose PAM equals`j`.
+You are to calculate a 1-indexed array `answer` of size `k` such that, for each `j (1 <= j <= k)`, `answer[j]` is the number of pirates whose PAM equals `j`.
 
-Return the array`answer`as described above.
+Return the array `answer` as described above.
 
 ```
 def counting_pirates_action_minutes(logs, k):

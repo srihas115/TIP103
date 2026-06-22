@@ -1,8 +1,8 @@
 # Problem 7: Minimum Number of Steps to Match Treasure Maps
 
-Captain Blackbeard has two treasure maps represented by two strings of the same length`map1`and`map2`. In one step, you can choose any character of`map2`and replace it with another character.
+Captain Blackbeard has two treasure maps represented by two strings of the same length `map1` and `map2`. In one step, you can choose any character of `map2` and replace it with another character.
 
-Return the minimum number of steps to make`map2`an anagram of`map1`.
+Return the minimum number of steps to make `map2` an anagram of `map1`.
 
 An Anagram of a string is a string that contains the same characters with a different (or the same) ordering.
 
