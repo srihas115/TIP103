@@ -1,4 +1,6 @@
-# TIP 103 — Advanced Technical Interview Prep · Summer 2026
+> **Note:** I have dropped TIP103 and switched to **TIP101** for Summer 2026. My active repository is now at [github.com/srihas115/TIP101-SU26](https://github.com/srihas115/TIP101-SU26).
+
+# TIP 103 — Advanced Technical Interview Prep · Summer 2026 (Dropped)
 
 > 📅 Tuesdays & Thursdays · 4:00 PM – 6:00 PM PT / 6:00 PM – 8:00 PM CT
 
